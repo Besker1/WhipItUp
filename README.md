@@ -5,7 +5,9 @@
 whitIpUp is an app that help people cook a bit easier. the user will have a list of potential recipes
 based on the selections they made. 
 
-## if the user is not sure on what they want, they have the option to click in the <suggestion> button
+## Users
+
+If the user is not sure on what they want, they have the option to click in the <suggestion> button
 to get a random recipe.
 
 Users can become member of whitItUp if they choose.
