@@ -1,4 +1,4 @@
-# WhitItUp
+# WhipItUp
 
 " Cooking made Easy"
 
