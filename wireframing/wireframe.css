@@ -15,10 +15,8 @@ main{
 body header nav{
     display: flex;
     justify-content: space-between;
-    background-color: aqua;
 }
 
 .menu{
-    background-color: blueviolet;
     display: inline-flex ;
 }
